@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071021698903",
+    "firebase_url": "https://shipme-1d285.firebaseio.com",
+    "project_id": "shipme-1d285",
+    "storage_bucket": "shipme-1d285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071021698903:android:db6d752daf65ef5a",
+        "android_client_info": {
+          "package_name": "com.shipme.shipme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071021698903-h9adiv0k1trle712bkkofmpq3p82tm93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbvc8pJTFfZs5Hyl7pRd6Zn8Q8A0SX_wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071021698903-h9adiv0k1trle712bkkofmpq3p82tm93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
